@@ -1,5 +1,5 @@
 
-package com.rootbox.wallpapers;
+package com.lego.wallpapers;
 
 import android.app.ActionBar;
 import android.app.Activity;
@@ -37,7 +37,7 @@ import java.util.ArrayList;
 
 public class WallpaperActivity extends Activity {
 
-    public final String TAG = "SwagPapers";
+    public final String TAG = "Lego";
     protected static final String MANIFEST = "wallpaper_manifest.xml";
     protected static final int THUMBS_TO_SHOW = 4;
 
@@ -59,7 +59,7 @@ public class WallpaperActivity extends Activity {
         mLoadingDialog = new ProgressDialog(this);
         mLoadingDialog.setCancelable(false);
         mLoadingDialog.setIndeterminate(true);
-        mLoadingDialog.setMessage("Retreiving wallpapers from server...");
+        mLoadingDialog.setMessage("Retrieving wallpapers from server...");
 
         mLoadingDialog.show();
         new LoadWallpaperManifest().execute();

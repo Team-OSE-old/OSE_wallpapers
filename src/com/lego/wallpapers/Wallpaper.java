@@ -1,5 +1,5 @@
 
-package com.rootbox.wallpapers;
+package com.lego.wallpapers;
 
 public class Wallpaper {
 

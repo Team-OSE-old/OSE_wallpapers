@@ -1,5 +1,5 @@
 
-package com.rootbox.wallpapers;
+package com.lego.wallpapers;
 
 import java.util.ArrayList;
 import java.util.List;
