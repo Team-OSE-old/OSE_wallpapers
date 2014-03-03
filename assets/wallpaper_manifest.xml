@@ -24,7 +24,9 @@
             
         <wallpaper
             author="Lego(TM)"
-            url="https://plus.google.com/photos/115220560467966500239/albums/5986065975428088177/5986065976638221298" />
+            thumbUrl="https://plus.google.com/photos/115220560467966500239/albums/5986065975428088177/5986065976638221298"
+            url="https://plus.google.com/photos/115220560467966500239/albums/5986065975428088177/5986065976638221298" 
+            name="Wildstyle" />
     </category>
 
 </wallpapers>
