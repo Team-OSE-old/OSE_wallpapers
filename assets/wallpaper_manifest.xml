@@ -14,18 +14,18 @@
         name="<wallpaper name">
     -->
 
-    <category name="LEGO" >
+    <category name="Lego" >
 
         <wallpaper
-            author="anerik"
+            author="Lego(TM)"
             thumbUrl="https://lh3.googleusercontent.com/-3jmZwFohkp8/UxKTzpxNJuI/AAAAAAAAAus/fvWtyllZcYs/w800-h534-no/star+wars+lego+stormtroopers+3608x2412+wallpaper_www.wallpaperto.com_99.jpg"
             url="https://lh3.googleusercontent.com/-3jmZwFohkp8/UxKTzpxNJuI/AAAAAAAAAus/fvWtyllZcYs/w800-h534-no/star+wars+lego+stormtroopers+3608x2412+wallpaper_www.wallpaperto.com_99.jpg"
             name="Lego wp test" />
             
         <wallpaper
             author="Lego(TM)"
-            thumbUrl="https://plus.google.com/photos/115220560467966500239/albums/5986065975428088177/5986065976638221298"
-            url="https://plus.google.com/photos/115220560467966500239/albums/5986065975428088177/5986065976638221298" 
+            thumbUrl="https://lh4.googleusercontent.com/-hIvmIXJWhQI/UxLHSkuSq_I/AAAAAAAAAnw/nUdROD7xhIA/w931-h698-no/Wyldstyle_Test.jpg"
+            url="https://lh4.googleusercontent.com/-hIvmIXJWhQI/UxLHSkuSq_I/AAAAAAAAAnw/nUdROD7xhIA/w931-h698-no/Wyldstyle_Test.jpg" 
             name="Wildstyle" />
     </category>
 
