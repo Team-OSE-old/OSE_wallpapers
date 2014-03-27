@@ -1,5 +1,5 @@
 
-package com.lego.wallpapers;
+package com.ose.wallpapers;
 
 public class Wallpaper {
 

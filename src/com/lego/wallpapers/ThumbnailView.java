@@ -1,5 +1,5 @@
 
-package com.lego.wallpapers;
+package com.ose.wallpapers;
 
 import android.content.Context;
 import android.util.AttributeSet;

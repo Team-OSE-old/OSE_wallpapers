@@ -1,7 +1,7 @@
 <resources>
 
-    <string name="app_name">Lego Papers</string>
-    <string name="title_activity_wallpaper">Lego Papers</string>
+    <string name="app_name">OSE Papers</string>
+    <string name="title_activity_wallpaper">OSE Papers</string>
     <string name="back">Previous</string>
     <string name="next">Next</string>
     <string name="page">Page: </string>

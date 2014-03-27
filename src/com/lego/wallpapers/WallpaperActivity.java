@@ -1,5 +1,5 @@
 
-package com.lego.wallpapers;
+package com.ose.wallpapers;
 
 import android.app.ActionBar;
 import android.app.Activity;
@@ -37,7 +37,7 @@ import java.util.ArrayList;
 
 public class WallpaperActivity extends Activity {
 
-    public final String TAG = "Lego";
+    public final String TAG = "OSE";
     protected static final String MANIFEST = "wallpaper_manifest.xml";
     protected static final int THUMBS_TO_SHOW = 4;
 

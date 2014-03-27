@@ -1,5 +1,5 @@
 
-package com.lego.wallpapers;
+package com.ose.wallpapers;
 
 import android.app.ActionBar;
 import android.app.Activity;

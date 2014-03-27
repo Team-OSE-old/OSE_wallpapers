@@ -1,5 +1,5 @@
 
-package com.lego.wallpapers;
+package com.ose.wallpapers;
 
 import android.content.Context;
 import android.database.DataSetObserver;
@@ -28,7 +28,7 @@ public class NavigationBarCategoryAdapater implements SpinnerAdapter {
 
         mCategories = cats;
     }
-    
+
     public ArrayList<WallpaperCategory> getCategories() {
         return mCategories;
     }
